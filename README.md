@@ -1,9 +1,9 @@
 # Cisco-Hospital-Network
 ## Remaining Problems
-- set up firewall
-- set up VLAN
-- Set up switches
-- Access Network
+- set up firewall x
+- set up VLAN x
+- Set up switches x
+- Access Network 
 - Chuyen WAN thanh SD -WAN
 - load balancing
 - VPN
