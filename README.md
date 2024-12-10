@@ -3,7 +3,7 @@
 - set up firewall x
 - set up VLAN x
 - Set up switches x
-- Access Network 
+- Access Network x
 - Chuyen WAN thanh SD -WAN
 - load balancing
 - VPN
